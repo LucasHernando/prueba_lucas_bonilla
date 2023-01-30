@@ -1,0 +1,21 @@
+API LARAVEL
+
+Instalacion de dependencias de php
+composer install
+
+Crear Base de Datos
+CREATE DATABASE dataSearchCities;
+
+Ejecutar migraciones
+php artisan migrate
+
+
+PROYECTO REACT
+
+Instalacion de react
+npm install
+
+Ejecucion de react
+npm serveç
+
+NOTA: Se deja el archivo env en formato txt para poder aplicar las configuraciones correctamente
